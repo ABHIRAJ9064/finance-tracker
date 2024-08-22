@@ -1,0 +1,8 @@
+.input-val{
+  background-color: transparent;
+  border-bottom: 1px solid var(--black);
+  outline: none;
+  width: 100%;
+  margin-bottom: 1rem;
+  padding: 0.5rem 0;
+}
